@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning c#,html,css,php
 - 💞️ I’m looking to collaborate in nice projects
-- 📫 How to reach me <a href="mailto:haktanylmz@gmail.com"> in my mail</a>or<a href="https://www.linkedin.com/in/haktanylmz/">linkedin</a>
+- 📫 How to reach me <a href="mailto:haktanylmz@gmail.com"> Mail </a>or<a href="https://www.linkedin.com/in/haktanylmz/">LinkedIn</a>
 
 <!---
 haktanylmz/haktanylmz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
