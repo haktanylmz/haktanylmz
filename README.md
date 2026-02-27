@@ -7,7 +7,6 @@ I am a Network Engineer with a strong foundation in network infrastructures, dat
 
 - 🌱 I’m currently learning **Networking** & **Python Automation**
 - 🤝 I’m currently studying **Management Information Systems**
-- 👨‍💻 All of my projects are available at [haktanylmz.com.tr](https://haktanylmz.com.tr)
 - 📝 I regularly write articles on [haktanylmz.com.tr](https://haktanylmz.com.tr)
 - 💬 You can ask me about **anything**
 - 📫 How to reach me **haktanylmz@gmail.com**
