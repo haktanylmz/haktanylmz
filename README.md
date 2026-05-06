@@ -45,8 +45,11 @@ Backed by my CCNA and ITIL 4 Foundation certifications, I actively use my techni
 
 ### IGA
 * **NOC Specialist** | *05.2025 - 01.2026*
-  * Providing live support during the installation and troubleshooting phases of network devices such as x-ray, camera, printer, computer, and access points by making relevant configurations on 2500 edge switches.
-  * Monitoring network devices such as servers, routers, switches, and access points located in the data center and campuses via monitoring programs, intervening, and escalating when necessary.
+  * Executing configuration processes for over 2,500 edge switches in the Access layer; monitoring the Core and Distribution layers and coordinating with the Network team to implement necessary changes.
+  * Providing support to field personnel regarding network setup and troubleshooting for end-user devices such as X-ray machines, IP cameras, FIDS monitors, computers, printers, and Access Points (WLAN), and resolving incident tickets (ITSM) within SLA timeframes.
+  * Comprehensive monitoring and management of hardware in data center and campus networks using tools such as Operations Bridge Manager, NNMi, UCMDB, Sunbird Dctrack, Sunbird Poweriq, Moxa MXView, Cisco Prime Infrastructure, Cisco ISE, Statuscake, Sitescope, Grafana, vCenter, PAM) to ensure 24/7 monitoring and placing devices into maintenance mode during scheduled maintenance.
+  * Ensuring network continuity by working in an integrated and proactive manner with all teams; performing initial response to identified or unresolved issues and escalating them to higher-level teams when necessary.
+  * Conducting physical checks (climate control, temperature, etc.) of critical system rooms and accompanying authorized teams to the site.
 
 ### D-Smart
 * **NOC Team Leader** | *09.2023 - 05.2025*
